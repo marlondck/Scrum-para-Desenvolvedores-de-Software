@@ -1,5 +1,5 @@
 ## Time box
-- Tempo máximo apra fazer uma cerimônia ou sprint
+- Tempo máximo para fazer uma cerimônia ou sprint
 
 ## Sprint: corrida, arrancada.
 É o principal evento do SCRUM.
@@ -30,5 +30,5 @@ Criar e atualizar o quadro Kanbam
 
 #### Review
 O último dia da sprint é feita uma reunião onde o time de Dev apresenta para o PO o trabalho feito.
-É feita um outra reunião também com o objetivo de dialogar as lições aprendidas. (Transparencia)
+É feita uma outra reunião também com o objetivo de dialogar as lições aprendidas. (Transparencia)
 
