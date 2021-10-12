@@ -7,3 +7,12 @@
   - Tempo
   - Qualidade
 
+## O que é ser ágil?
+  - Rapidez(mudança) e desembaraço;
+  - Fazer coisas complezas de forma simples;
+  - Equipe comprometida com os objetivos;
+  - Maior valor apra o cliente;
+
+Ter a capacidade de responder rapidamente a mudança!
+
+
